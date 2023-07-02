@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+/* Add application styles & imports to this file! */
+.highlight {
+  font-weight: bold;
+  color: blue;
+  background-color: #fff0f0;
+}
+
+.code {
+      color: brown;
+    font-weight: 500;
+    background: #eeffee;
+    text-align: center;
+}
+
+hr {
+  opacity: 0.3;
+}
+
+body {
+  margin: 30px;
+  font-family: Roboto, Arial, sans-serif;
+}
